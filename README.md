@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
 ### 📱 Framework
 
