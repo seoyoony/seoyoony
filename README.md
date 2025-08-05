@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hi!%20I'm%20Jaewon%20👨‍💻&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hi!%20I'm%20Seoyun%20👨‍💻&fontSize=40)
 
 ## 🙋‍♂️ About Me
 - 🔭 I’m currently working on Flutter & AI projects
