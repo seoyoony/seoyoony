@@ -127,8 +127,10 @@
 
 ---
 
-## 📊 GitHub 활동 통계 (Jolly 테마)
-![Seoyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyoony&show_icons=true&theme=jolly)
+## 📊 GitHub 활동 통계
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seoyoony&show_icons=true&theme=jolly" width="80%" />
+</div>
 
 ---
 
