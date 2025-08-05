@@ -1,7 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Seoyun%20's%20GitHub%20👨‍💻&fontSize=40&fontAlignY=40" width="100%"/>
 
 <p align="center"><strong>💡 “코드로 사람을 돕는 개발자 서윤입니다.”</strong></p>
+
 ---
+
 ## 🙋‍♂️ 자기소개
 - 🔭 현재 Flutter와 AI 프로젝트를 개발 중입니다  
 - 🌱 FastAPI를 활용한 백엔드도 공부하고 있어요  
@@ -98,7 +100,7 @@
 <table>
   <tr>
     <td align="center" width="100">
-      <img src="https://github.com/hivedb/hive/raw/main/images/logo.png" width="40" height="40" /><br/>
+      <img src="https://github.com/hivedb/hive/raw/main/images/logo.png" width="40" height="40"/><br/>
       <sub>Hive</sub>
     </td>
   </tr>
@@ -190,5 +192,3 @@
 
 ## 📫 연락처
 [![Email Badge](https://img.shields.io/badge/yoonyoon0403@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:yoonyoon0403@naver.com)](mailto:yoonyoon0403@naver.com)
-
----
