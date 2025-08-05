@@ -154,12 +154,6 @@
 - 🚇 **[Paraway – 지하철 혼잡도 예측 앱](https://github.com/wodnjsrla85/paraway)**  
   시간대, 노선, 날씨 데이터를 활용해 지하철 혼잡도를 예측하고 사용자에게 실시간 정보를 제공하는 앱 (Flutter + FastAPI)
 
-<!-- ✅ 아래에 GIF 데모를 추가할 수 있습니다.
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/xxx/demo.gif" width="300"/>
-</p>
--->
-
 - ✅ **[Swift ToDoList App](https://github.com/wodnjsrla85/swift-todolist)**  
   SwiftUI 기반의 간단하고 직관적인 투두리스트 앱으로, 사용자 입력 기반 할 일 추가/삭제 기능과 로컬 데이터 저장 기능을 구현함
 
@@ -169,8 +163,3 @@
 [![Email Badge](https://img.shields.io/badge/yoonyoon0403@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:yoonyoon0403@naver.com)](mailto:yoonyoon0403@naver.com)
 
 ---
-
-<!-- 방문자 수 카운터 -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seoyoony&label=Profile%20views&color=0e75b6&style=flat" alt="seoyoony" />
-</p>
