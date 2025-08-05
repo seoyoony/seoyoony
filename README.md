@@ -4,8 +4,7 @@
 - 🔭 현재 Flutter와 AI 프로젝트를 개발 중입니다
 - 🌱 FastAPI를 활용한 백엔드도 공부하고 있어요
 - 💬 모바일 앱 개발과 머신러닝 관련 질문 언제든 환영합니다!
-- 📫 연락처: jaewon.dev@gmail.com
-- 😄 성별: 남성 (he/him)
+- 📫 연락처: yoonyoon0403@naver.com
 - ⚡ TMI: 현실 문제를 해결하는 걸 좋아하는 개발자입니다
 
 ---
@@ -129,13 +128,8 @@
 ---
 
 ## 📊 GitHub 활동 통계 (Jolly 테마)
-![Jaewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=wodnjsrla85&show_icons=true&theme=jolly)
+![Seoyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=wodnjsrla85&show_icons=true&theme=jolly)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wodnjsrla85&layout=compact&theme=jolly)
-
----
-
-## 🏆 GitHub 트로피
-[![trophy](https://github-profile-trophy.vercel.app/?username=wodnjsrla85&theme=jolly&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
