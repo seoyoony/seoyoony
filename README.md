@@ -129,27 +129,6 @@
 
 ---
 
-## 📊 GitHub 활동 통계
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seoyoony&show_icons=true&theme=jolly" width="80%" />
-</div>
-
----
-
-## 🏆 GitHub Trophy
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=seoyoony&theme=juicyfresh&margin-w=10&no-frame=true" width="90%" />
-</div>
-
----
-
-## 🖼️ Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seoyoony&theme=react-dark&area=true&hide_border=true" width="90%" />
-</div>
-
----
-
 ## 🚀 주요 프로젝트
 
 ---
