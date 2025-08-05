@@ -1,11 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=안녕하세요!%20저는%20서윤입니다%20👨‍💻&fontSize=40)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=안녕하세요!%20저는%20서윤입니다%20👨‍💻&fontSize=40&fontAlignY=40" width="100%"/>
 
 ## 🙋‍♂️ 자기소개
-- 🔭 현재 Flutter와 AI 프로젝트를 개발 중입니다
-- 🌱 FastAPI를 활용한 백엔드도 공부하고 있어요
-- 💬 모바일 앱 개발과 머신러닝 관련 질문 언제든 환영합니다!
-- 📫 연락처: yoonyoon0403@naver.com
-- ⚡ TMI: 현실 문제를 해결하는 걸 좋아하는 개발자입니다
+- 🔭 현재 Flutter와 AI 프로젝트를 개발 중입니다  
+- 🌱 FastAPI를 활용한 백엔드도 공부하고 있어요  
+- 💬 모바일 앱 개발과 머신러닝 관련 질문 언제든 환영합니다!  
+- 📫 연락처: yoonyoon0403@naver.com  
+- ⚡ TMI: 현실 문제를 해결하는 걸 좋아하는 개발자입니다  
 
 ---
 
@@ -98,7 +98,7 @@
 <table>
   <tr>
     <td align="center" width="100">
-      <img src="https://img.icons8.com/color/48/hive-box.png" width="40" height="40"/><br/>
+      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-hive-a-fast-and-lightweight-key-value-database-written-in-dart-logo-color-tal-revivo.png" width="40" height="40"/><br/>
       <sub>Hive</sub>
     </td>
   </tr>
@@ -129,6 +129,7 @@
 
 ## 📊 GitHub 활동 통계 (Jolly 테마)
 ![Seoyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyoony&show_icons=true&theme=jolly)
+
 ---
 
 ## 🚀 주요 프로젝트
@@ -144,11 +145,11 @@
 ---
 
 ## 📫 연락처
-[![Gmail Badge](https://img.shields.io/badge/jaewon.dev@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaewon.dev@gmail.com)](mailto:jaewon.dev@gmail.com)
+[![Email Badge](https://img.shields.io/badge/yoonyoon0403@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:yoonyoon0403@naver.com)](mailto:yoonyoon0403@naver.com)
 
 ---
 
 <!-- 방문자 수 카운터 -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wodnjsrla85&label=프로필%20조회수&color=0e75b6&style=flat" alt="wodnjsrla85" />
+  <img src="https://komarev.com/ghpvc/?username=seoyoony&label=프로필%20조회수&color=0e75b6&style=flat" alt="seoyoony" />
 </p>
