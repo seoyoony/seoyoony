@@ -1,20 +1,20 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hi!%20I'm%20Seoyun%20👨‍💻&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=안녕하세요!%20저는%20서윤입니다%20👨‍💻&fontSize=40)
 
-## 🙋‍♂️ About Me
-- 🔭 I’m currently working on Flutter & AI projects
-- 🌱 I’m learning backend with FastAPI
-- 💬 Ask me anything about mobile dev or machine learning
-- 📫 Reach me: jaewon.dev@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love solving real-world problems with code
-
----
-
-## 🛠️ Tech Stack
+## 🙋‍♂️ 자기소개
+- 🔭 현재 Flutter와 AI 프로젝트를 개발 중입니다
+- 🌱 FastAPI를 활용한 백엔드도 공부하고 있어요
+- 💬 모바일 앱 개발과 머신러닝 관련 질문 언제든 환영합니다!
+- 📫 연락처: jaewon.dev@gmail.com
+- 😄 성별: 남성 (he/him)
+- ⚡ TMI: 현실 문제를 해결하는 걸 좋아하는 개발자입니다
 
 ---
 
-### 📱 Framework
+## 🛠️ 기술 스택
+
+---
+
+### 📱 프레임워크
 
 <table>
   <tr>
@@ -31,7 +31,7 @@
 
 ---
 
-### 💬 Language
+### 💬 언어
 
 <table>
   <tr>
@@ -52,7 +52,7 @@
 
 ---
 
-### 🔙 Backend / API
+### 🔙 백엔드 / API
 
 <table>
   <tr>
@@ -69,7 +69,7 @@
 
 ---
 
-### 💾 Database
+### 💾 데이터베이스
 
 <table>
   <tr>
@@ -94,7 +94,7 @@
 
 ---
 
-### 📦 Local Storage
+### 📦 로컬 스토리지
 
 <table>
   <tr>
@@ -107,7 +107,7 @@
 
 ---
 
-### ⚙️ State Management
+### ⚙️ 상태 관리
 
 <table>
   <tr>
@@ -126,38 +126,37 @@
   </tr>
 </table>
 
-
 ---
 
-## 📊 GitHub Stats (Jolly Theme)
+## 📊 GitHub 활동 통계 (Jolly 테마)
 ![Jaewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=wodnjsrla85&show_icons=true&theme=jolly)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wodnjsrla85&layout=compact&theme=jolly)
 
 ---
 
-## 🏆 GitHub Trophy
+## 🏆 GitHub 트로피
 [![trophy](https://github-profile-trophy.vercel.app/?username=wodnjsrla85&theme=jolly&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 주요 프로젝트
 - 🚲 **[Mapo Bike Prediction App](https://github.com/wodnjsrla85/mapo-bike)**  
-  서울 마포구 따릉이 대여소별 수요 예측 AI 기반 앱 (Flutter + FastAPI)
+  서울 마포구 따릉이 대여소별 수요를 예측하는 AI 기반 앱 (Flutter + FastAPI)
 
 - 📱 **[MySalary – 연봉 예측 앱](https://github.com/wodnjsrla85/mysalary-app)**  
-  GPT + 머신러닝을 활용한 연봉 예측 앱
+  GPT와 머신러닝을 활용해 연봉을 예측하는 앱
 
 - ✨ **[MultiTool GPT App](https://github.com/wodnjsrla85/gpt-multitool)**  
-  번역/요약/작문/운세 등 다양한 기능을 가진 GPT 기반 모바일 앱
+  번역, 요약, 작문, 운세 등 다양한 기능을 제공하는 GPT 기반 모바일 앱
 
 ---
 
-## 📫 Contact Me
+## 📫 연락처
 [![Gmail Badge](https://img.shields.io/badge/jaewon.dev@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaewon.dev@gmail.com)](mailto:jaewon.dev@gmail.com)
 
 ---
 
 <!-- 방문자 수 카운터 -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wodnjsrla85&label=Profile%20views&color=0e75b6&style=flat" alt="wodnjsrla85" />
+  <img src="https://komarev.com/ghpvc/?username=wodnjsrla85&label=프로필%20조회수&color=0e75b6&style=flat" alt="wodnjsrla85" />
 </p>
