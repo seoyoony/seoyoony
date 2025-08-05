@@ -128,9 +128,7 @@
 ---
 
 ## 📊 GitHub 활동 통계 (Jolly 테마)
-![Seoyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=wodnjsrla85&show_icons=true&theme=jolly)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wodnjsrla85&layout=compact&theme=jolly)
-
+![Seoyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoyoony&show_icons=true&theme=jolly)
 ---
 
 ## 🚀 주요 프로젝트
