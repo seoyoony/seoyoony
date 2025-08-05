@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=100&text=Seoyun%20's%20GitHub%20&fontSize=40&fontAlignY=40" width="100%"/>
 
-<p align="center"><strong>💡 “코드로 사람을 돕는 개발자 서윤입니다.”</strong></p>
-
 ---
 
 ## 🙋‍♂️ 자기소개
