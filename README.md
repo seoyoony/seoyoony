@@ -9,11 +9,9 @@
 
 ---
 
-## 🛠️ 기술 스택
+## 🛠️ Tech Stack
 
----
-
-### 📱 프레임워크
+### 📱 Framework
 
 <table>
   <tr>
@@ -30,7 +28,7 @@
 
 ---
 
-### 💬 언어
+### 💬 Languages
 
 <table>
   <tr>
@@ -51,7 +49,7 @@
 
 ---
 
-### 🔙 백엔드 / API
+### 🔙 Backend / API
 
 <table>
   <tr>
@@ -68,7 +66,7 @@
 
 ---
 
-### 💾 데이터베이스
+### 💾 Database
 
 <table>
   <tr>
@@ -93,7 +91,7 @@
 
 ---
 
-### 📦 로컬 스토리지
+### 📦 Local Storage
 
 <table>
   <tr>
@@ -106,7 +104,7 @@
 
 ---
 
-### ⚙️ 상태 관리
+### ⚙️ State Management
 
 <table>
   <tr>
@@ -134,12 +132,33 @@
 
 ---
 
+## 🏆 GitHub Trophy
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=seoyoony&theme=juicyfresh&margin-w=10&no-frame=true" width="90%" />
+</div>
+
+---
+
+## 🖼️ Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seoyoony&theme=react-dark&area=true&hide_border=true" width="90%" />
+</div>
+
+---
+
 ## 🚀 주요 프로젝트
+
 - 🚲 **[Mapo Bike Prediction App](https://github.com/wodnjsrla85/mapo-bike)**  
   서울 마포구 따릉이 대여소별 수요를 예측하는 AI 기반 앱 (Flutter + FastAPI)
 
 - 🚇 **[Paraway – 지하철 혼잡도 예측 앱](https://github.com/wodnjsrla85/paraway)**  
   시간대, 노선, 날씨 데이터를 활용해 지하철 혼잡도를 예측하고 사용자에게 실시간 정보를 제공하는 앱 (Flutter + FastAPI)
+
+<!-- ✅ 아래에 GIF 데모를 추가할 수 있습니다.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/xxx/demo.gif" width="300"/>
+</p>
+-->
 
 - ✅ **[Swift ToDoList App](https://github.com/wodnjsrla85/swift-todolist)**  
   SwiftUI 기반의 간단하고 직관적인 투두리스트 앱으로, 사용자 입력 기반 할 일 추가/삭제 기능과 로컬 데이터 저장 기능을 구현함
@@ -150,3 +169,8 @@
 [![Email Badge](https://img.shields.io/badge/yoonyoon0403@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:yoonyoon0403@naver.com)](mailto:yoonyoon0403@naver.com)
 
 ---
+
+<!-- 방문자 수 카운터 -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=seoyoony&label=Profile%20views&color=0e75b6&style=flat" alt="seoyoony" />
+</p>
