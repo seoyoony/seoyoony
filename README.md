@@ -134,7 +134,7 @@
 ### 🚲 Mapo Bike Prediction App
 > 서울 마포구 따릉이 대여소별 수요를 예측하는 AI 기반 웹
 
-- 🛠 Flutter, FastAPI, Python, Pandas, Matplotlib
+- 🛠 Flutter, FastAPI, Python
 - 🎯 주요 기능:
   - 대여소별 과거 이용 데이터 수집 및 전처리
   - FastAPI 기반 예측 서버 구축
@@ -146,11 +146,11 @@
 ### 🚇 Paraway – 지하철 혼잡도 예측 앱
 > 서울 지하철 2호선(사당 - 잠실나루)의 승차인원·하차인원·혼잡도를 예측하는 AI 기반 앱
 
-- 🛠 Flutter, Firebase, FastAPI, SQLite
+- 🛠 Flutter, Provider, Python, FastAPI, SQLite
 - 🎯 주요 기능:
   - 노선·시간대·직장인구수 기반 혼잡도 모델 학습
-  - 사용자 위치 기반 혼잡도 시각화
-  - Firebase Auth 및 Cloud Firestore 연동
+  - 사용자 선택조건 기반 혼잡도 시각화
+  - FastAPI 기반 예측 서버 구축
 - 🔗 [GitHub 바로가기](https://github.com/Team2-Organization-K-Digital/ParaWay)
 
 ---
