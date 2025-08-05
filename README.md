@@ -153,7 +153,7 @@
   - 노선·시간대·직장인구수 기반 혼잡도 모델 학습
   - 사용자 위치 기반 혼잡도 시각화
   - Firebase Auth 및 Cloud Firestore 연동
-- 🔗 [GitHub 바로가기](https://github.com/wodnjsrla85/paraway)
+- 🔗 [GitHub 바로가기](https://github.com/Team2-Organization-K-Digital/ParaWay)
 
 ---
 
