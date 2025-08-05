@@ -148,14 +148,41 @@
 
 ## 🚀 주요 프로젝트
 
-- 🚲 **[Mapo Bike Prediction App](https://github.com/wodnjsrla85/mapo-bike)**  
-  서울 마포구 따릉이 대여소별 수요를 예측하는 AI 기반 앱 (Flutter + FastAPI)
+---
 
-- 🚇 **[Paraway – 지하철 혼잡도 예측 앱](https://github.com/wodnjsrla85/paraway)**  
-  시간대, 노선, 날씨 데이터를 활용해 지하철 혼잡도를 예측하고 사용자에게 실시간 정보를 제공하는 앱 (Flutter + FastAPI)
+### 🚲 Mapo Bike Prediction App
+> 서울 마포구 따릉이 대여소별 수요를 예측하는 AI 기반 웹
 
-- ✅ **[Swift ToDoList App](https://github.com/wodnjsrla85/swift-todolist)**  
-  SwiftUI 기반의 간단하고 직관적인 투두리스트 앱으로, 사용자 입력 기반 할 일 추가/삭제 기능과 로컬 데이터 저장 기능을 구현함
+- 🛠 Flutter, FastAPI, Python, Pandas, Matplotlib
+- 🎯 주요 기능:
+  - 대여소별 과거 이용 데이터 수집 및 전처리
+  - FastAPI 기반 예측 서버 구축
+  - 날씨/시간대 기반 수요 예측 및 시각화
+- 🔗 [GitHub 바로가기](https://github.com/wodnjsrla85/mapo-bike)
+
+---
+
+### 🚇 Paraway – 지하철 혼잡도 예측 앱
+> 서울 지하철 2호선(사당 - 잠실나루)의 승차인원·하차인원·혼잡도를 예측하는 AI 기반 앱
+
+- 🛠 Flutter, Firebase, FastAPI, SQLite
+- 🎯 주요 기능:
+  - 노선·시간대·직장인구수 기반 혼잡도 모델 학습
+  - 사용자 위치 기반 혼잡도 시각화
+  - Firebase Auth 및 Cloud Firestore 연동
+- 🔗 [GitHub 바로가기](https://github.com/wodnjsrla85/paraway)
+
+---
+
+### ✅ Swift ToDoList App
+> 직관적인 UI로 할 일을 관리할 수 있는 SwiftUI 기반 앱
+
+- 🛠 SwiftUI, MVVM, UserDefaults
+- 🎯 주요 기능:
+  - 할 일 추가 / 삭제 / 완료 체크
+  - 앱 재실행 시 데이터 유지 (로컬 저장)
+  - 깔끔한 UI 애니메이션 효과
+- 🔗 [GitHub 바로가기](https://github.com/wodnjsrla85/swift-todolist)
 
 ---
 
