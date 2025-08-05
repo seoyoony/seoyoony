@@ -96,7 +96,8 @@
 <table>
   <tr>
     <td align="center" width="100">
-      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-hive-a-fast-and-lightweight-key-value-database-written-in-dart-logo-color-tal-revivo.png" width="40" height="40"/><br/>
+      <img src="https://raw.githubusercontent.com/hivedb/hive/main/images/logo_transparent.png" width="40" height="40"/>
+<br/>
       <sub>Hive</sub>
     </td>
   </tr>
