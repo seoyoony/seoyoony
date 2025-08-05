@@ -1,32 +1,53 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hi!%20I'm%20Jaewon%20👨‍💻&fontSize=40)
+
+## 🙋‍♂️ About Me
+- 🔭 I’m currently working on Flutter & AI projects
+- 🌱 I’m learning backend with FastAPI
+- 💬 Ask me anything about mobile dev or machine learning
+- 📫 Reach me: jaewon.dev@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love solving real-world problems with code
+
+---
+
 ## 🛠️ Tech Stack
-
-### 📌 Languages
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-### 🚀 Frameworks & Libraries
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
 ---
 
-### 🧪 Tools & Dev Env
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=Xcode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## 📊 GitHub Stats (Jolly Theme)
+![Jaewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=wodnjsrla85&show_icons=true&theme=jolly)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wodnjsrla85&layout=compact&theme=jolly)
 
 ---
 
-### ☁️ Etc
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![ChatGPT API](https://img.shields.io/badge/ChatGPT_API-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+## 🏆 GitHub Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=wodnjsrla85&theme=jolly&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 🚀 Featured Projects
+- 🚲 **[Mapo Bike Prediction App](https://github.com/wodnjsrla85/mapo-bike)**  
+  서울 마포구 따릉이 대여소별 수요 예측 AI 기반 앱 (Flutter + FastAPI)
+
+- 📱 **[MySalary – 연봉 예측 앱](https://github.com/wodnjsrla85/mysalary-app)**  
+  GPT + 머신러닝을 활용한 연봉 예측 앱
+
+- ✨ **[MultiTool GPT App](https://github.com/wodnjsrla85/gpt-multitool)**  
+  번역/요약/작문/운세 등 다양한 기능을 가진 GPT 기반 모바일 앱
+
+---
+
+## 📫 Contact Me
+[![Gmail Badge](https://img.shields.io/badge/jaewon.dev@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaewon.dev@gmail.com)](mailto:jaewon.dev@gmail.com)
+
+---
+
+<!-- 방문자 수 카운터 -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wodnjsrla85&label=Profile%20views&color=0e75b6&style=flat" alt="wodnjsrla85" />
+</p>
