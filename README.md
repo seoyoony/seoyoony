@@ -100,7 +100,7 @@
 <table>
   <tr>
     <td align="center" width="100">
-      <img src="https://github.com/hivedb/hive/raw/main/images/logo.png" width="40" height="40"/><br/>
+      <img src="https://raw.githubusercontent.com/hivedb/hive/master/docs/images/logo.png" width="40" height="40" /><br/>
       <sub>Hive</sub>
     </td>
   </tr>
