@@ -1,13 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=100&text=Seoyun%20's%20GitHub%20&fontSize=40&fontAlignY=40" width="100%"/>
-
----
-
-## 🙋‍♂️ 자기소개
-- 🔭 현재 Flutter와 AI 프로젝트를 개발 중입니다  
-- 🌱 FastAPI를 활용한 백엔드도 공부하고 있어요  
-- 💬 모바일 앱 개발과 머신러닝 관련 공부중입니다!  
-- 📫 연락처: yoonyoon0403@naver.com  
-- ⚡ TMI: 현실 문제를 해결하는 걸 좋아하는 개발자입니다  
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=80&text=Seoyun%20's%20GitHub%20&fontSize=40&fontAlignY=40" width="100%"/>
 
 ---
 
