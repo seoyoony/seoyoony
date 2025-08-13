@@ -130,7 +130,7 @@
   - 대여소별 과거 이용 데이터 수집 및 전처리
   - FastAPI 기반 예측 서버 구축
   - 날씨/시간대 기반 수요 예측 및 시각화
-- 🔗 [GitHub 바로가기](https://github.com/wodnjsrla85/mapo-bike)
+- 🔗 [GitHub 바로가기](https://github.com/seoyoony/seoul_bike)
 
 ---
 
@@ -142,7 +142,7 @@
   - 노선·시간대·직장인구수 기반 혼잡도 모델 학습
   - 사용자 선택조건 기반 혼잡도 시각화
   - FastAPI 기반 예측 서버 구축
-- 🔗 [GitHub 바로가기](https://github.com/Team2-Organization-K-Digital/ParaWay)
+- 🔗 [GitHub 바로가기](https://github.com/seoyoony/ParaWay)
 
 ---
 
