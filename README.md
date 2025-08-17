@@ -79,17 +79,12 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/><br/>
       <sub>SQLite</sub>
     </td>
-  </tr>
-</table>
-
----
-
-### 📦 Local Storage
-
-<table>
-  <tr>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/hivedb/hive/master/docs/images/logo.png" width="40" height="40" /><br/>
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/realm.svg" width="40" height="40"/><br/>
+      <sub>Realm</sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hive.svg" width="40" height="40"/><br/>
       <sub>Hive</sub>
     </td>
   </tr>
