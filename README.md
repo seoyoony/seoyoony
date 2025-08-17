@@ -134,7 +134,7 @@
 
 - 🛠 Flutter, Provider, Python, FastAPI, SQLite
 - 🎯 주요 기능:
-  - 노선·시간대·직장인구수 기반 혼잡도 모델 학습
+  - 시간대·직장인구수·승차하차인구수 기반 혼잡도 모델 학습
   - 사용자 선택조건 기반 혼잡도 시각화
   - FastAPI 기반 예측 서버 구축
 - 🔗 [GitHub 바로가기](https://github.com/seoyoony/ParaWay)
@@ -144,12 +144,12 @@
 ### ✅ Swift ToDoList App
 > 직관적인 UI로 할 일을 관리할 수 있는 SwiftUI 기반 앱
 
-- 🛠 SwiftUI, MVVM, UserDefaults
+- 🛠 SwiftUI, MVVM, Realm
 - 🎯 주요 기능:
-  - 할 일 추가 / 삭제 / 완료 체크
+  - 할 일 추가 / 삭제 / 수정 / 완료 체크
   - 앱 재실행 시 데이터 유지 (로컬 저장)
-  - 깔끔한 UI 애니메이션 효과
-- 🔗 [GitHub 바로가기](https://github.com/wodnjsrla85/swift-todolist)
+  - 깔끔한 UI
+  - 📱 [App Store 바로가기]([https://apps.apple.com/app/idYOUR_APP_ID](https://apps.apple.com/kr/app/dailytask-master/id6749846555))
 
 ---
 
