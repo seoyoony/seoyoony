@@ -149,7 +149,7 @@
   - 할 일 추가 / 삭제 / 수정 / 완료 체크
   - 앱 재실행 시 데이터 유지 (로컬 저장)
   - 깔끔한 UI
-  - 📱 [App Store 바로가기]([https://apps.apple.com/app/idYOUR_APP_ID](https://apps.apple.com/kr/app/dailytask-master/id6749846555))
+  - 📱 [App Store 바로가기](https://apps.apple.com/kr/app/dailytask-master/id6749846555)
 
 ---
 
