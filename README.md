@@ -13,8 +13,8 @@
       <sub>Flutter</sub>
     </td>
     <td align="center" width="100">
-      <img src="https://developer.apple.com/assets/elements/icons/swift/swift-64x64_2x.png" width="40" height="40"/><br/>
-      <sub>Swift</sub>
+      <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="40" height="40"/><br/>
+      <sub>SwiftUI</sub>
     </td>
   </tr>
 </table>
@@ -81,7 +81,7 @@
     </td>
     <td align="center" width="100">
       <img src="https://www.mongodb.com/docs/realm/images/realm-logo.png" width="40" height="40"/><br/>
-<sub>Realm</sub>
+      <sub>Realm</sub>
     </td>
     <td align="center" width="100">
       <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hive.svg" width="40" height="40"/><br/>
