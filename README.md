@@ -80,8 +80,8 @@
       <sub>SQLite</sub>
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/realm.svg" width="40" height="40"/><br/>
-      <sub>Realm</sub>
+      <img src="https://www.mongodb.com/docs/realm/images/realm-logo.png" width="40" height="40"/><br/>
+<sub>Realm</sub>
     </td>
     <td align="center" width="100">
       <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hive.svg" width="40" height="40"/><br/>
